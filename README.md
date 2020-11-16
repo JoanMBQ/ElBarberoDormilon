@@ -1,1 +1,1 @@
-# Sincronizaci-n-de-procesos---El-Barbero-Dormil-n
+# Sincronización de procesos - El-Barbero-Dormilón
